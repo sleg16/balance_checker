@@ -3,9 +3,13 @@
 Install two libraries
 
 pip install cryptocompare
+
+
 pip install web3
 
 Put your wallets in the wallets.py
+
+
 Put chain's RPCs into providers.py
 
 Exclusively for WhalesDAO
