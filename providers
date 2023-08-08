@@ -1,5 +1,0 @@
-providers = {
-    'eth': "RPC here",
-    'arb': "RPC here",
-    'optimism': "RPC here"
-}
